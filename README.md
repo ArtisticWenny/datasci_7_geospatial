@@ -6,5 +6,6 @@
 
 ### 2. Geospatial Data Processing:
 - Dataset was loaded into Jupyter notebook
+(images/Colo.png "Text to show on mouseover")
 
 ### 
