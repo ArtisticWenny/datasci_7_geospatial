@@ -6,6 +6,4 @@
 
 ### 2. Geospatial Data Processing:
 - Dataset was loaded into Jupyter notebook
-(Images/Colo.png)
-
-### 
+  https://github.com/ArtisticWenny/datasci_7_geospatial/tree/main/Images
